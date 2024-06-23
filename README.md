@@ -1,6 +1,7 @@
 # HueHarmony
 
 HueHarmony is a color blindness assistance application designed to enhance visual perception for individuals with color vision deficiencies. The app initiates with a comprehensive test to diagnose the user's specific type of color blindness. Based on the diagnostic results, HueHarmony employs advanced image processing algorithms to adjust and correct the colors in images, tailoring the visual output to the user's unique needs. This personalized correction not only enhances the clarity and accuracy of colors but also improves the overall visual experience, enabling users to perceive a more accurate representation of their surroundings. HueHarmony stands out as a practical tool for those with color vision deficiencies, offering them greater independence and a richer visual engagement with the world. The app is user-friendly, ensuring accessibility for all ages, and is continuously updated with new features based on user feedback and technological advancements. By bridging the gap between color perception and reality, HueHarmony aims to make everyday tasks and visual content more accessible and enjoyable for everyone.
+
 ![image](https://github.com/AakanshaAcharya/HueHarmony/assets/151839957/cbcbc50c-a7bd-4bdd-ae3c-f3d5a3a69668)
 
 Splash Screen
